@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/currency-calculator/static/css/main.e45b2918.css",
+    "main.js": "/currency-calculator/static/js/main.6c714a34.js",
+    "static/media/background.jpg": "/currency-calculator/static/media/background.855a7ef1c9c602d5f78f.jpg",
+    "index.html": "/currency-calculator/index.html",
+    "main.e45b2918.css.map": "/currency-calculator/static/css/main.e45b2918.css.map",
+    "main.6c714a34.js.map": "/currency-calculator/static/js/main.6c714a34.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e45b2918.css",
+    "static/js/main.6c714a34.js"
+  ]
+}
